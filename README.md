@@ -14,8 +14,14 @@ About Me:<br>
 ## 🛠️ Skills
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=%23FFFFFF" alt="Figma" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Solidity-%23640082.svg?style=for-the-badge&logo=solidity&logoColor=%23FFFFFF" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Rust-%23FF0000.svg?style=for-the-badge&logo=rust&logoColor=%23FFFFFF" alt="Rust" />
+
+  
+
 </p> <br><br>
 
 Interests:<br>
