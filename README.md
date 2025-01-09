@@ -1,14 +1,14 @@
 # LAZORR
 ## Blockchain Developer 
 Hey there! 👋
-I'm Lazorr, a Web2,Web3 Deveoper. I write code that usually works, and when it doesn’t, I call it “experimental features.”<br>
+I'm Lazorr, a Web2,Web3 Deveoper, I bridge the gap between Web2 and Web3 using my programming skkills and usnderstanding of Smart Contracts.<br>
 
 About Me:<br>
-🌱 Currently learning Javascript, Solidity and Rust.
-🚀 I’m looking to collaborate on Javascript and EVM projects.
-💬 As a bonus, I also design frontends using tools like Figma and Canva, and I also hunt for bugs in Blockchain projects — I Audit Smart Contracts.
-📫 Reach me on: lazorronchain@gmail.com
-⚡ Fun fact: I actually do enjoy programming and chess but i still dont believe i pass for a NERD. <br>
+🌱 Currently learning Javascript, Solidity and Rust.<br>
+🚀 I’m looking to collaborate on Javascript and EVM projects.<br>
+💬 As a bonus, I also design frontends using tools like Figma and Canva, and I also hunt for bugs in Blockchain projects — I Audit Smart Contracts.<br>
+📫 Reach me on: lazorronchain@gmail.com<br>
+⚡ Fun fact: I actually do enjoy programming and chess but i still dont believe i pass for a NERD <br>
 
 ## 🛠️ Skills
 
