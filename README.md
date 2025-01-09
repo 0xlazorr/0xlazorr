@@ -1,16 +1,18 @@
-## Hi there 👋
+Blockchain Developer 💻
+Hey there! 👋 I'm Lazorr, a Web2, Web3 developer and Auditor. I use my programming skills in bridging the gap between Web2 and Web3.
+ 
+About Me:
+🌱 Currently learning Javascript, Solidity and Rust.
+🚀 I’m looking to collaborate on Javascript and EVM projects.
+💬 As a bonus, I also design frontends using tools like Figma and Canva, and I also hunt for bugs in Blockchain projects — I Audit Smart Contracts.
+📫 Reach me on: lazorronchain@gmail.com
+⚡ Fun fact: I actually do enjoy programming and chess but i still dont believe i pass for a NERD.
 
-<!--
-**0xlazorr/0xlazorr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills
+Product-Design JavaScript Node.js Solidity Rust
 
-Here are some ideas to get you started:
+Interests:
+Playing chess, Reading and Watching documentaries.
+Contributing to open-source projects and building my own personal projects.
+I find learning amusing, information gathering is just never enough!!.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
