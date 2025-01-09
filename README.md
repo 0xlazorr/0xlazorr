@@ -26,7 +26,7 @@ About Me:<br>
 
 Interests:<br>
 🧑‍💻 Contributing to open-source projects and building my own personal projects.<br>
-🔎 I find learning amusing, you just can never know it all.
+🔎 I find learning amusing, you just can never know it all.<br>
 ♟️ Playing chess<br>
 📖 Reading and Watching documentaries<br>
 🎧 Listening to music<br>
