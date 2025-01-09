@@ -1,7 +1,7 @@
 # LAZORR
 ## Blockchain Developer 
 Hey there! 👋<br>
-I'm Lazorr, a Web2,Web3 Developer, I bridge the gap between Web2 and Web3 using my programming skills and understanding of Smart Contracts.<br><br>
+I'm Lazorr, a Web2/Web3 Developer, I bridge the gap between Web2 and Web3 using my programming skills and understanding of Smart Contracts.<br><br>
 
 About Me:<br>
 🌱 Forever learning Javascript, Solidity and Rust.<br>
