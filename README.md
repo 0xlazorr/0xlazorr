@@ -7,8 +7,8 @@ About Me:<br>
 🌱 Forever learning Javascript, Solidity and Rust.<br>
 🚀 I’m looking to collaborate on Javascript and EVM projects.<br>
 💬 I design frontends using tools like Figma and Canva, and I also hunt for bugs in Blockchain projects — I Audit Smart Contracts.<br>
-📫 Reach me on: lazorronchain@gmail.com<br>
-📤 https://t.me/Lazorr1<br>
+📫 Email me on: lazorronchain@gmail.com<br>
+📤 Text me on telegram https://t.me/Lazorr1<br>
 ⚡ Fun fact: I actually do enjoy programming and chess but I still don't believe I pass for a NERD <br><br>
 
 ## 🛠️ Skills
