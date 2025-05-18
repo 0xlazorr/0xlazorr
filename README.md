@@ -4,9 +4,9 @@ Hey there! 👋<br>
 I'm Lazorr, a Web2/Web3 Developer, I bridge the gap between Web2 and Web3 using my programming skills and understanding of Smart Contracts.<br><br>
 
 About Me:<br>
-🌱 Forever learning Javascript, Solidity and Rust.<br>
+🌱 Forever learning Javascript, Python and Solidity.<br>
 🚀 I’m looking to collaborate on Javascript and EVM projects.<br>
-💬 I design frontends using tools like Figma and Canva, and I also hunt for bugs in Blockchain projects — I Audit Smart Contracts.<br>
+💬 I design frontends using tools like Figma and Canva, and I automate tasks using Python.<br>
 📫 Email me on: lazorronchain@gmail.com<br>
 📤 Text me on telegram https://t.me/Lazorr1<br>
 ⚡ Fun fact: I actually do enjoy programming and chess but I still don't believe I pass for a NERD <br><br>
