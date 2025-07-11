@@ -1,5 +1,5 @@
 # LAZORR
-## SHADOW
+## 0xlazorr
 Hey there! 👋<br>
 I'm Lazorr, you came here 'cause I'm popular.<br><br>
 
