@@ -1,12 +1,12 @@
 # LAZORR
 ## 0xlazorr
 Hey there! 👋<br>
-I'm Lazorr, you came here 'cause I'm popular.<br><br>
+I'm Lazorr, I already know you're here.<br><br>
 
 About Me:<br>
-🌱 Forever learning Python.<br>
-🚀 I’m looking to collaborate on Hackathons and bounty hunting.<br>
-♾️ I automate tasks using Python.<br>
+🌱 Automation with Python.<br>
+🚀 Hackathons && Bug-bounty Hunting.<br>
+♾️ Web Scraping && Security<br>
 📫 Email me on: lazorronchain@gmail.com<br>
 ⚡ Fun fact: <br><br>
 
@@ -21,10 +21,10 @@ About Me:<br>
 </p> <br><br>
 
 Interests:<br>
-🧑‍💻 Contributing to open-source projects and building my own personal projects.<br>
-🔎 I find learning amusing, you just can never know it all.<br>
-📖 Reading and Watching documentaries.<br>
-🎧 Listening to music.<br>
-♟️ Playing chess.<br>
+🧑‍💻 Contributing to open-source Projects.<br>
+🔎 Digital Forensics<br>
+📖 Reading and Watching Documentaries.<br>
+🎧 Listening to Music.<br>
+♟️ Playing Chess.<br>
 
 
