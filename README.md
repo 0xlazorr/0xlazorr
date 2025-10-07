@@ -6,9 +6,10 @@ I'm Lazorr, I already know you're here.<br><br>
 About Me:<br>
 🌱 Automation with Python.<br>
 🚀 Hackathons && Bug-bounty Hunting.<br>
+💻 DevSecOps
 ♾️ Web Scraping && Security<br>
 📫 Email me on: lazorronchain@gmail.com<br>
-⚡ Fun fact: <br><br>
+⚡ Fun fact: Nurses Run is a Palindrome <br><br>
 
 ## 🛠️ Skills
 
