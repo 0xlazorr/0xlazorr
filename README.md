@@ -1,7 +1,7 @@
 # LAZORR
 ## 0xlazorr
 Hey there! 👋<br>
-I'm Lazorr, I already know you're here.<br><br>
+I'm Lazorr, a Software Engineer.<br><br>
 
 About Me:<br>
 💻 DevSecOps.<br>
