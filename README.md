@@ -22,8 +22,8 @@ About Me:<br>
 </p> <br><br>
 
 Interests:<br>
-💻 Contributing to open-source Projects.<br>
 📖 Reading and Watching Documentaries.<br>
+💻 Contributing to open-source Projects.<br>
 🎧 Listening to Music.<br>
 ♟️ Playing Chess.<br>
 
