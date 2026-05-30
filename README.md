@@ -5,9 +5,9 @@ I'm Lazorr, a Software Engineer.<br><br>
 
 About Me:<br>
 💻 Embedded Software Engineering.<br>
-🌱 Python, Bash, C, C++, Linux<br>
-🚀 API, Version Controls && CI/CD<br>
-♾️ Web Scraping && Security<br>
+🌱 Bash, C, C++, Linux, CPython/MicroPython/Python, Rust<br>
+🚀 API, Version Control && CI/CD<br>
+♾️ Low-level programming, Automated testing, Test cases, Web Scraping && Security<br>
 📫 Email me on: lazorronchain@gmail.com<br>
 ⚡ Fun fact: Nurses Run is a Palindrome.<br><br>
 
