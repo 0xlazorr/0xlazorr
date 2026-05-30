@@ -14,19 +14,20 @@ About Me:<br>
 ## 🛠️ Skills
 
 <p align="left">
-<img src="https://img.shields.io/badge/Python-%2334A853.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Git-%23D62828.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Docker-%236f42c1.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/CI/CD-%230072C6.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Git-D62828?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Docker-6f42c1?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/CI/CD-0072C6?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
 
-<img src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge" alt="C" />
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge" alt="C++" />
-</p> <br><br>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Rust-B7410E?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></p> <br><br>
 
 Interests:<br>
 📖 Reading and Watching Documentaries.<br>
+📊 The moving markets.<br>
 💻 Contributing to open-source Projects.<br>
 🎧 Listening to Music.<br>
 ♟️ Playing Chess.<br>
