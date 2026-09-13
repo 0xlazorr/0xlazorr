@@ -1,7 +1,7 @@
 # LAZORR
 ## 0xlazorr
 Hey there! 👋<br>
-I'm Lazorr, a Software Engineer transitioning into **Cybersecurity & Penetration Testing**.<br><br>
+I'm Lazorr, a **Cybersecurity & Penetration Tester**.<br><br>
 
 About Me:<br>
 💻 Offensive Security Enthusiast & Junior Penetration Tester.<br>
